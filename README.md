@@ -1,4 +1,6 @@
-# MegabonkAI
+
+# MegabonkAI<img width="1024" height="301" alt="watermarked_img_8212945792895640643" src="https://github.com/user-attachments/assets/af67a197-7a6a-4424-8366-1eacf181f541" />
+
 
 A MelonLoader mod that plays [Megabonk](https://store.steampowered.com/app/3405340/Megabonk/) on its own — it explores the map, loots chests, charges shrines, dodges area attacks, picks its upgrades, and fights bosses at range. Built for hands-off streaming.
 
