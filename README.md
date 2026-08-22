@@ -6,7 +6,7 @@ A MelonLoader mod that plays [Megabonk](https://store.steampowered.com/app/34053
 
 It hooks the game's own state rather than reading the screen, so it knows exact enemy positions, item rarities, gold, and terrain, and reacts at frame rate.
 
-> **Single-player only.** This is a bot playing the game for you. Don't use it to compete on leaderboards, and don't use it in any context where automation would be unfair to other players.
+> **Single-player only.** This is a bot playing the game for you. If you use to cheat the leaderboards you **WILL** get banned from the leaderboards, and don't use it in any context where automation would be unfair to other players.
 
 ---
 
