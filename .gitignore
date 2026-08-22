@@ -1,0 +1,17 @@
+# Build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Release staging
+dist/
+
+# Decompiled game code — Megabonk's own proprietary source, generated locally by
+# MelonLoader/Cpp2IL for reference only. Never commit or redistribute this.
+decompiled/
+
+# Third-party guides / notes kept locally for reference
+TL;DR.txt
+notes/
